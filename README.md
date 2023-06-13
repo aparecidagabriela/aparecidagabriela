@@ -1,13 +1,8 @@
 ### Olá, eu sou a Gabriela Aparecida 👋
 
-- 🌱 Estou estudando JavaScript/ TypeScript
+- 🌱 Estou estudando Nodejs e React
 - 😄 Pronouns: ela/dela
-
-<div align="center">
-  <a href="https://github.com/aparecidagabriela">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aparecidagabriela&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-  
+ 
   <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Gabi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabi-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
